@@ -2,11 +2,19 @@
 
 Some projects from 42cursus:
 
-- :file_folder: libft:        &emsp;&emsp;&emsp;&emsp;&emsp;- recoding a few functions of the C standard library
+- :file_folder: libft
+- - recoding a few functions of the C standard library (esp. string related)
 - :file_folder: ft_printf
-- :file_folder: get_next_line
+-  - recoding printf
+- :file_folder: get_next_line 
+- - function that reads content line by line from given file descriptor
 - :file_folder: push_swap
+- - sorting data on a stack, with a limited set of instructions, and the smallest number of moves
 - :file_folder: pipex
+- - transferring data via file descriptors, including pipes
 - :file_folder: so_long
+- - a small 2D game, where textures, sprites and tiles are used
 - :file_folder: philosophers
+- - [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 - :file_folder: minishell
+- - create a simple shell

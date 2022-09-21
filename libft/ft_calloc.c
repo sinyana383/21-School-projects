@@ -6,7 +6,7 @@
 /*   By: ddurrand <ddurrand@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/13 15:05:02 by ddurrand          #+#    #+#             */
-/*   Updated: 2021/10/19 15:34:52 by ddurrand         ###   ########.fr       */
+/*   Updated: 2022/09/21 16:00:53 by ddurrand         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,11 +15,9 @@
 
 void	*ft_calloc(size_t count, size_t size)
 {
-	char				*memory;
-	unsigned long		i;
+	char		*memory;
+	size_t		i;
 
-	if (count < 0 || size < 0)
-		return (0);
 	memory = (char *)malloc(size * count);
 	if (!memory)
 	{

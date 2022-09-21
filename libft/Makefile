@@ -1,7 +1,7 @@
 NAME = libft.a
 CC = gcc
 HEADER  =   libft.h
-CFLAGS = -Werror -Wall -Wextra -I$(HEADER)
+CFLAGS = -Werror -Wall -Wextra
 SRCS =  	ft_memset		ft_bzero		ft_memcpy \
 			ft_memmove		ft_memchr		ft_memcmp \
 			ft_strlen		ft_strlcpy		ft_strlcat\

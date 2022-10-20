@@ -18,3 +18,5 @@ Some projects from 42cursus:
 - - [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 - :file_folder: minishell
 - - create a simple shell
+- :file_folder: cub3D ([another repository](https://github.com/sinyana383/cub3d))
+- - 3D graphical representation of a maze from a first-person perspective

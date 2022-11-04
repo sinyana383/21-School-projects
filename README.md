@@ -20,3 +20,5 @@ Some projects from 42cursus:
 - - create a simple shell
 - :file_folder: cub3D ([another repository](https://github.com/sinyana383/cub3d))
 - - 3D graphical representation of a maze from a first-person perspective
+- :file_folder: CPP Modules ([another repository](https://github.com/sinyana383/CPP-Modules))
+- - dive into Object Oriented Programming

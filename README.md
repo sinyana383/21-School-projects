@@ -26,3 +26,5 @@ Some projects from 42cursus:
 - - SQL Fundamentals
 - :file_folder: [Photolab](https://github.com/sinyana383/PhotoLab)
 - - Applying different filters to images
+- :file_folder: [SimpleNavigator](https://github.com/sinyana383/SimpleNavigator)
+- - Implementations of several basic algorithms on graphs

@@ -18,7 +18,11 @@ Some projects from 42cursus:
 - - [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 - :file_folder: minishell
 - - create a simple shell
-- :file_folder: cub3D ([another repository](https://github.com/sinyana383/cub3d))
+- :file_folder: [cub3D](https://github.com/sinyana383/cub3d)
 - - 3D graphical representation of a maze from a first-person perspective
-- :file_folder: CPP Modules ([another repository](https://github.com/sinyana383/CPP-Modules))
+- :file_folder: [CPP Modules](https://github.com/sinyana383/CPP-Modules)
 - - dive into Object Oriented Programming
+- :file_folder: [PostgreSQL boot camp](https://github.com/sinyana383/PostgreSQL)
+- - SQL Fundamentals
+- :file_folder: [Photolab](https://github.com/sinyana383/PhotoLab)
+- - Applying different filters to images

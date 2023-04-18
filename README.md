@@ -2,29 +2,29 @@
 
 Some projects from 42cursus:
 
-- :file_folder: libft
+- :large_blue_circle: libft
 - - recoding a few functions of the C standard library (esp. string related)
-- :file_folder: ft_printf
+- :large_blue_circle: ft_printf
 -  - recoding printf
-- :file_folder: get_next_line 
+- :large_blue_circle: get_next_line 
 - - function that reads content line by line from given file descriptor
-- :file_folder: push_swap
+- :large_blue_circle: push_swap
 - - sorting data on a stack, with a limited set of instructions, and the smallest number of moves
-- :file_folder: pipex
+- :large_blue_circle: pipex
 - - transferring data via file descriptors, including pipes
-- :file_folder: so_long
+- :large_blue_circle: so_long
 - - a small 2D game, where textures, sprites and tiles are used
-- :file_folder: philosophers
+- :large_blue_circle: philosophers
 - - [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
-- :file_folder: minishell
+- :large_blue_circle: minishell
 - - create a simple shell(team project done in collaboration with chawke)
-- :file_folder: [cub3D](https://github.com/sinyana383/cub3d)
+- :large_blue_circle: [cub3D](https://github.com/sinyana383/cub3d)
 - - 3D graphical representation of a maze from a first-person perspective
-- :file_folder: [CPP Modules](https://github.com/sinyana383/CPP-Modules)
+- :green_circle: [CPP Modules](https://github.com/sinyana383/CPP-Modules)
 - - dive into Object Oriented Programming
-- :file_folder: [PostgreSQL boot camp](https://github.com/sinyana383/PostgreSQL)
-- - SQL Fundamentals
-- :file_folder: [Photolab](https://github.com/sinyana383/PhotoLab)
+- :green_circle: [Photolab](https://github.com/sinyana383/PhotoLab)
 - - Applying different filters to images
-- :file_folder: [SimpleNavigator](https://github.com/sinyana383/SimpleNavigator)
+- :green_circle: [SimpleNavigator](https://github.com/sinyana383/SimpleNavigator)
 - - Implementations of several basic algorithms on graphs
+- :key: [PostgreSQL boot camp](https://github.com/sinyana383/PostgreSQL)
+- - SQL Fundamentals

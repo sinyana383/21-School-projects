@@ -1,6 +1,6 @@
 ### 21-School-projects
 
-Some projects from 42cursus:
+Projects from 42cursus(at the start) and 21-school:
 
 - :large_blue_circle: libft
   - recoding a few functions of the C standard library (esp. string related)

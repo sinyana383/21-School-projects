@@ -2,6 +2,9 @@
 
 Projects from 42cursus(at the start) and 21-school:
 
+<details>
+<summary>C</summary>
+
 - :large_blue_circle: libft
   - recoding a few functions of the C standard library (esp. string related)
 - :large_blue_circle: ft_printf
@@ -20,11 +23,27 @@ Projects from 42cursus(at the start) and 21-school:
   - create a simple shell(team project done in collaboration with chawke)
 - :large_blue_circle: [cub3D](https://github.com/sinyana383/cub3d)
   - 3D graphical representation of a maze from a first-person perspective
+
+</details>
+
+<details>
+<summary>CPP</summary>
+
 - :green_circle: [CPP Modules](https://github.com/sinyana383/CPP-Modules)
   - dive into Object Oriented Programming
 - :green_circle: [Photolab](https://github.com/sinyana383/PhotoLab)
   - Applying different filters to images
 - :green_circle: [SimpleNavigator](https://github.com/sinyana383/SimpleNavigator)
   - Implementations of several basic algorithms on graphs
+
+</details>
+
+<details>
+<summary>PostgreSQL</summary>
+
 - :key: [PostgreSQL boot camp](https://github.com/sinyana383/PostgreSQL)
   - SQL Fundamentals
+- :mortar_board: [Info21](https://github.com/sinyana383/Info21)
+  -  create a database with data about School 21 and write procedures and functions to retrieve information, as well as procedures and triggers to change it
+
+</details>

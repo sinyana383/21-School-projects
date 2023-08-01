@@ -47,3 +47,11 @@ Projects from 42cursus(at the start) and 21-school:
   -  create a database with data about School 21 and write procedures and functions to retrieve information, as well as procedures and triggers to change it
 
 </details>
+
+<details>
+<summary>CSharp</summary>
+
+- :purple_circle: [CSharp boot camp](https://github.com/sinyana383/cSharp)
+  - C# Fundamentals
+
+</details>

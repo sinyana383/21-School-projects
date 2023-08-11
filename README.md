@@ -31,9 +31,9 @@ Projects from 42cursus(at the start) and 21-school:
 
 - :green_circle: [CPP Modules](https://github.com/sinyana383/CPP-Modules)
   - dive into Object Oriented Programming
-- :green_circle: [Photolab](https://github.com/sinyana383/PhotoLab)
+- :green_circle: [PhotoFilter](https://github.com/sinyana383/PhotoLab)
   - Applying different filters to images
-- :green_circle: [SimpleNavigator](https://github.com/sinyana383/SimpleNavigator)
+- :green_circle: [GraphAlgorithms](https://github.com/sinyana383/SimpleNavigator)
   - Implementations of several basic algorithms on graphs
 
 </details>
@@ -41,9 +41,9 @@ Projects from 42cursus(at the start) and 21-school:
 <details>
 <summary>PostgreSQL</summary>
 
-- :key: [PostgreSQL boot camp](https://github.com/sinyana383/PostgreSQL)
+- :key: [PostgreSQL](https://github.com/sinyana383/PostgreSQL)
   - SQL Fundamentals
-- :mortar_board: [Info21](https://github.com/sinyana383/Info21)
+- :mortar_board: [EduPlatformData](https://github.com/sinyana383/Info21)
   -  create a database with data about School 21 and write procedures and functions to retrieve information, as well as procedures and triggers to change it
 
 </details>
@@ -51,7 +51,7 @@ Projects from 42cursus(at the start) and 21-school:
 <details>
 <summary>CSharp</summary>
 
-- :purple_circle: [CSharp boot camp](https://github.com/sinyana383/cSharp)
+- :purple_circle: [CSharp](https://github.com/sinyana383/cSharp)
   - C# Fundamentals
 
 </details>

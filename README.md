@@ -45,6 +45,8 @@ Projects from 42cursus(at the start) and 21-school:
   - SQL Fundamentals
 - :mortar_board: [EduPlatformData](https://github.com/sinyana383/Info21)
   -  create a database with data about School 21 and write procedures and functions to retrieve information, as well as procedures and triggers to change it
+- :chart_with_upwards_trend: [ShopAnalytics](https://github.com/sinyana383/ShopAnalytics)
+  - Creating view and material view tables based on information from retail network. Make personal offeres for different aims
 
 </details>
 
